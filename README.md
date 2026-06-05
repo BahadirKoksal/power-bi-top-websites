@@ -28,13 +28,19 @@ This project demonstrates advanced data cleaning techniques in Power BI, includi
 
 ### 3. Visualization
 - Built a **Matrix** visual showing the minimum (best) Alexa ranking per country
-- Rows: Principal country | Values: Min of Alexa ranking
+  - Rows: Principal country
+  - Values: Min of Alexa ranking
 
 ## 📈 Key Insights
 
 - **U.S.** has the best global ranking with rank **1** (Google)
 - **China** follows with rank **4** (Baidu)
 - **Russia**'s best ranked site is **VK** at rank **16**
+
+## 🖼️ Preview
+
+### Matrix – Best Alexa Ranking by Country
+![Matrix](matrix.png)
 
 ## 🧰 Tools Used
 
